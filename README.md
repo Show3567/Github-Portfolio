@@ -2,10 +2,9 @@
 <h3 align="center">A frontend developer from Antra</h3>
 
 - 🔭 I’m currently working on [Antra-Aura](https://github.com/Antra-Inc/Aura-ui)
-- 🌱 I’m currently learning **Angular, Nest, React, Vue** - 👨‍💻 All of my
-projects are available at
-[https://github.com/Show3567](https://github.com/Show3567) - 💬 Ask me about
-**Angular, Nest** - 📫 How to reach me **yue.dong@antra.com**
+- 🌱 I’m currently learning **Angular, Nest, React, Vue** 
+- - 👨‍💻 All of myprojects are available at [https://github.com/Show3567](https://github.com/Show3567) 
+- 💬 Ask me about **Angular, Nest** - 📫 How to reach me **yue.dong@antra.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"></p>
